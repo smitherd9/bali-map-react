@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bali-map-react/static/css/main.e8ff1bdc.chunk.css",
+    "main.js": "/bali-map-react/static/js/main.2cd77b1e.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.2cd77b1e.chunk.js.map",
+    "runtime-main.js": "/bali-map-react/static/js/runtime-main.9ea0c308.js",
+    "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.9ea0c308.js.map",
+    "static/js/2.860b5cb3.chunk.js": "/bali-map-react/static/js/2.860b5cb3.chunk.js",
+    "static/js/2.860b5cb3.chunk.js.map": "/bali-map-react/static/js/2.860b5cb3.chunk.js.map",
+    "static/js/3.bac7a186.chunk.js": "/bali-map-react/static/js/3.bac7a186.chunk.js",
+    "static/js/3.bac7a186.chunk.js.map": "/bali-map-react/static/js/3.bac7a186.chunk.js.map",
+    "index.html": "/bali-map-react/index.html",
+    "static/css/main.e8ff1bdc.chunk.css.map": "/bali-map-react/static/css/main.e8ff1bdc.chunk.css.map",
+    "static/js/2.860b5cb3.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.860b5cb3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bali-map-react/static/media/agung.028660c0.jpg",
+    "static/media/bali_mask.74f1fe77.jpg": "/bali-map-react/static/media/bali_mask.74f1fe77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ea0c308.js",
+    "static/js/2.860b5cb3.chunk.js",
+    "static/css/main.e8ff1bdc.chunk.css",
+    "static/js/main.2cd77b1e.chunk.js"
+  ]
+}
