@@ -1,0 +1,49 @@
+{
+    "type": "AndrewTothGamelanTuningData",
+    "banjar": [ {
+        "properties": {
+            "NAME": "Peliatan",
+            "ENSEMBLE_ID": "01",
+            "KABUPATEN": "Gianyar",
+            "coordinates": [-8.5120, 115.2749],
+            "audio": "bali-map-react/static/media/peliatan.94cae6eb.mp3"            
+        }
+        
+    },
+    {
+
+        "properties": {
+            "NAME": "Getas",
+            "ENSEMBLE_ID": "02",
+            "KABUPATEN": "Gianyar",
+            "coordinates": [-8.552833211627208, 115.30626172505409],
+            "audio": "bali-map-react/static/media/getas.05fecbff.mp3"             
+        }
+    },
+    {
+
+        "properties": {
+            "NAME": "KOKAR",
+            "ENSEMBLE_ID": "03",
+            "KABUPATEN": "Gianyar",
+            "coordinates": [-8.605494208711733,  115.25697201534375]            
+        }
+    },
+    {
+
+        "properties": {
+            "NAME": "Banjar Geladag, Pedungan",
+            "ENSEMBLE_ID": "04",
+            "KABUPATEN": "Kota Denpasar",
+            "coordinates": [-8.690221146548055, 115.20599715475782]            
+        }
+    }
+    
+]
+
+
+ 
+
+
+}
+
