@@ -20,8 +20,12 @@
 .nagra {
   width: 50%;
     display: inline-block;
-    margin-top: 5em;
-    margin-bottom: 5em;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+
+.nagra-main {
+  padding: 1em;
 }
 
 .content {
