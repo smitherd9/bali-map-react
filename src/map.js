@@ -13,8 +13,7 @@ import { GoogleMap,
 
 // import AudioPlayer from "react-h5-audio-player";
 // import "react-h5-audio-player/lib/styles.css";
-import "./audio/peliatan.mp3";
-import "./audio/getas.mp3";
+
 
 import ReactAudioPlayer from 'react-audio-player';
 
@@ -93,7 +92,7 @@ const WrappedMap = withScriptjs(withGoogleMap(Map));
 
 export default function MapContainer() {
     return(
-        <div style={{ width: "100vw", height: "100vh" }} >
+        <div style={{ width: "100%", height: "100vh" }} >
             <WrappedMap googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp
             &libraries=geometry,drawing,places&key=${process.env.REACT_APP_GOOGLE_KEY}`} 
             loadingElement={<div style={{ height: "100%" }} />}
