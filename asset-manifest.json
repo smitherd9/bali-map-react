@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bali-map-react/static/css/main.f76fa294.chunk.css",
-    "main.js": "/bali-map-react/static/js/main.716692ed.chunk.js",
-    "main.js.map": "/bali-map-react/static/js/main.716692ed.chunk.js.map",
+    "main.css": "/bali-map-react/static/css/main.c7a96a2a.chunk.css",
+    "main.js": "/bali-map-react/static/js/main.86a196ad.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.86a196ad.chunk.js.map",
     "runtime-main.js": "/bali-map-react/static/js/runtime-main.bbb13952.js",
     "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.bbb13952.js.map",
     "static/js/2.fe380734.chunk.js": "/bali-map-react/static/js/2.fe380734.chunk.js",
@@ -10,19 +10,21 @@
     "static/js/3.73f046cc.chunk.js": "/bali-map-react/static/js/3.73f046cc.chunk.js",
     "static/js/3.73f046cc.chunk.js.map": "/bali-map-react/static/js/3.73f046cc.chunk.js.map",
     "index.html": "/bali-map-react/index.html",
-    "static/css/main.f76fa294.chunk.css.map": "/bali-map-react/static/css/main.f76fa294.chunk.css.map",
+    "static/css/main.c7a96a2a.chunk.css.map": "/bali-map-react/static/css/main.c7a96a2a.chunk.css.map",
     "static/js/2.fe380734.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.fe380734.chunk.js.LICENSE.txt",
     "static/media/Nagra-IV-S_1.4a5c8d90.jpg": "/bali-map-react/static/media/Nagra-IV-S_1.4a5c8d90.jpg",
     "static/media/Nagra-IV-S_2.6753389b.jpg": "/bali-map-react/static/media/Nagra-IV-S_2.6753389b.jpg",
     "static/media/App.css": "/bali-map-react/static/media/agung.028660c0.jpg",
     "static/media/bali_mask.74f1fe77.jpg": "/bali-map-react/static/media/bali_mask.74f1fe77.jpg",
     "static/media/getas.05fecbff.mp3": "/bali-map-react/static/media/getas.05fecbff.mp3",
+    "static/media/hale-sight-o-tuner-1970s.6b33b908.jpg": "/bali-map-react/static/media/hale-sight-o-tuner-1970s.6b33b908.jpg",
+    "static/media/kudelski-slo-resolver.75268b52.jpg": "/bali-map-react/static/media/kudelski-slo-resolver.75268b52.jpg",
     "static/media/peliatan.94cae6eb.mp3": "/bali-map-react/static/media/peliatan.94cae6eb.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.bbb13952.js",
     "static/js/2.fe380734.chunk.js",
-    "static/css/main.f76fa294.chunk.css",
-    "static/js/main.716692ed.chunk.js"
+    "static/css/main.c7a96a2a.chunk.css",
+    "static/js/main.86a196ad.chunk.js"
   ]
 }
