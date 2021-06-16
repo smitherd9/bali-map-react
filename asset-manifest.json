@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bali-map-react/static/css/main.794e1b31.chunk.css",
+    "main.css": "/bali-map-react/static/css/main.f905bce8.chunk.css",
     "main.js": "/bali-map-react/static/js/main.8e65a0d4.chunk.js",
     "main.js.map": "/bali-map-react/static/js/main.8e65a0d4.chunk.js.map",
     "runtime-main.js": "/bali-map-react/static/js/runtime-main.27b4e6f6.js",
@@ -10,7 +10,7 @@
     "static/js/3.2346ecf8.chunk.js": "/bali-map-react/static/js/3.2346ecf8.chunk.js",
     "static/js/3.2346ecf8.chunk.js.map": "/bali-map-react/static/js/3.2346ecf8.chunk.js.map",
     "index.html": "/bali-map-react/index.html",
-    "static/css/main.794e1b31.chunk.css.map": "/bali-map-react/static/css/main.794e1b31.chunk.css.map",
+    "static/css/main.f905bce8.chunk.css.map": "/bali-map-react/static/css/main.f905bce8.chunk.css.map",
     "static/js/2.40bce549.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.40bce549.chunk.js.LICENSE.txt",
     "static/media/Nagra-IV-S_1.4a5c8d90.jpg": "/bali-map-react/static/media/Nagra-IV-S_1.4a5c8d90.jpg",
     "static/media/Nagra-IV-S_2.6753389b.jpg": "/bali-map-react/static/media/Nagra-IV-S_2.6753389b.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.27b4e6f6.js",
     "static/js/2.40bce549.chunk.js",
-    "static/css/main.794e1b31.chunk.css",
+    "static/css/main.f905bce8.chunk.css",
     "static/js/main.8e65a0d4.chunk.js"
   ]
 }
