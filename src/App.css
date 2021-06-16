@@ -150,6 +150,20 @@ border-bottom: 1px solid white; */
 }
 
 
+@media screen and (min-width:300px) and (max-width:1024px) {
+  .nagra {
+    width: 90%;
+  }
+
+  .text-p-nagra {
+    top: 0;
+    font-family: Arimo;
+    font-size: 20px;
+    padding: 0em;
+    position: inherit;
+  }
+}
+
 @media(max-width: 786px) {
 
   .logo {        
