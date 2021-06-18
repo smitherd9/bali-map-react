@@ -17,6 +17,7 @@ import {
   MenuItem,
   Modal,
   Button,
+  ButtonGroup
 } from "react-bootstrap";
 
 function Description() {
@@ -58,7 +59,7 @@ function Description() {
             <div style={{ width: "100%", textAlign: "center" }}>
               <img
                 src={nagra2}
-                style={{ width: "50%", border: "1px solid black" }}
+                style={{ width: "75%", border: "1px solid black" }}
                 alt="Nagra IV-S"
               ></img>
               <p>
@@ -72,7 +73,7 @@ function Description() {
           <div style={{ width: "100%", textAlign: "center" }}>
             <img
               src={kudelski}
-              style={{ width: "50%", border: "1px solid black" }}
+              style={{ width: "75%", border: "1px solid black" }}
               alt="Kudelski Slo Resolver"
             ></img>
             <p>
@@ -83,7 +84,7 @@ function Description() {
             <div style={{ width: "100%", textAlign: "center" }}>
             <img
               src={hale}
-              style={{ width: "50%", border: "1px solid black" }}
+              style={{ width: "75%", border: "1px solid black" }}
               alt="Hale Sight-o-Tuner 1970s"
             ></img>
             <p>
@@ -115,15 +116,32 @@ function Description() {
         </Row>
 
         <Row>
-          <Col xs={6} className="nagra">
-            <h2>
+          <Col xs={12} className="nagra">
+            <h2 className="main-text">
               The map below was created using his tuning data and was input into
               SonicCouture's Balinese Gamelan II VST. It is hoped that this will
               allow the listener a glimpse into the wildly diverse and beautiful
-              world of Balinese tuning preferences throughout the island by
-              hearing samples of the same pieces played on different gamelan.
+              world of Balinese tuning preferences by hearing samples of pieces played 
+              on different gamelan.
             </h2>
+            <p className="small-description"> Click on a pin below and you'll see information about which banjar you 
+                are listening to, which district (kabupaten) it is located in and the 
+                ensemble ID in Andrew Toth's data. <br/><em>More to come!</em>
+            </p>
           </Col>
+        </Row>
+        <Row>
+            <Col xs={12}>
+                <ButtonGroup>
+                <Button variant="primary" size="lg" active>
+                    Gianyar
+                </Button>
+                <Button variant="primary" size="lg" active>
+                    Denpasar
+                </Button>
+                </ButtonGroup>
+            </Col>
+            
         </Row>
       </Container>
     </div>

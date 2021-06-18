@@ -40,6 +40,9 @@ border-bottom: 1px solid white; */
   font-size: 32px;
   font-weight: 400;
   text-align: center;
+  margin: auto;
+  width: 50%;
+
 }
 
 .nagra {
@@ -62,11 +65,14 @@ border-bottom: 1px solid white; */
 }
 
 .text-p-nagra {
-  padding: 4em;
-  position: absolute;
-  top: 0;
+  padding-left: 2em;
+  padding-right: 2em;
   font-family: Arimo;
   font-size: 20px;
+}
+
+.small-description {
+  margin-top: 5em;
 }
 
 .content {
