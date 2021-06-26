@@ -17,7 +17,8 @@ import {
     Button,
   } from "react-bootstrap";
 
-  import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+  import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+  import { faCopyright } from '@fortawesome/free-solid-svg-icons';
 
   import barongLogo from "./img/barong-logo.png";
 
@@ -27,21 +28,37 @@ import {
       <div className="footer">
           <Container fluid>
               <Row>
-                  <Col lg={4} className="footer-col">
+                  <Col lg={12} className="footer-col">
                       <div>
                       <img src={barongLogo} style={{width: "100px", height: "100px"}} alt="barong logo"></img>
                       </div>
-                  </Col>
-                  <Col lg={8} className="footer-col">
+                  
+                  
         {/* Facebook */}
-        <div><a href="https://www.facebook.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'facebook-square']} className="fa-2x" /></a></div>
+        <div className="footer-social-div">
+          <span className="footer-social-icons">
+          <a href="https://www.facebook.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'facebook-square']} className="fa-2x" /></a>
+          </span>
         {/* Twitter  */}
-        <div><a href="https://www.twitter.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'twitter-square']} className="fa-2x" /></a></div>
+          <span className="footer-social-icons">
+          <a href="https://www.twitter.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'twitter-square']} className="fa-2x" /></a>
+          </span>
+        
         {/* Linkedin */}
-        <div><a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'linkedin-in']} className="fa-2x" /></a></div>
+        <span className="footer-social-icons">
+          <a href="https://www.linkedin.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'linkedin-in']} className="fa-2x" /></a>
+        </span>
+        
         {/* Instagram */}
-        <div><a href="https://www.instagram.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'instagram']} className="fa-2x" /></a></div>
-                  </Col>
+        <span className="footer-social-icons">
+          <a href="https://www.instagram.com" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={['fab', 'instagram']} className="fa-2x" /></a>
+        </span>
+        </div>
+        <div>
+        <a href="https://smitherd9.github.io" target="_blank" rel="noreferrer"><span style={{color: "#fff"}}><FontAwesomeIcon icon={faCopyright} /> 2021 Daniel Smither</span></a>
+        </div>
+        </Col>
+
               </Row>
           </Container>
 
@@ -51,3 +68,4 @@ import {
   
   export default Footer;
   
+

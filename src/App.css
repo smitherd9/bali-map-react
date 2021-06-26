@@ -24,6 +24,14 @@ text-align: inital;
   display: inline-block;
 }
 
+.footer-social-div {
+  margin-top: 1em;
+}
+
+.footer-social-icons {
+  padding: 0.25em;
+}
+
 .fa-facebook-square, .fa-twitter-square, .fa-linkedin-in, .fa-instagram {
   color: #fff;
 }
@@ -72,8 +80,21 @@ border-bottom: 1px solid white; */
 }
 
 .small-description {
-  margin-top: 5em;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  padding-top: 5em;
 }
+
+.citation {
+  font-size: 8px;
+}
+
+.kab-buttons{
+  padding: 2em;
+
+}
+
 
 .content {
   width: 94%;

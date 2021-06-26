@@ -28,7 +28,7 @@ function Description() {
           <Col xs={12} className="nagra nagra-main">
             <h2 className="main-text">
               In 1976, the ethnomusicologist Andrew Toth measured the
-              tunings of each bronze key and kettle gong of 49 complete sets of
+              tunings of each bronze key and gong-kettle of 49 complete sets of
               gong keybar.
             </h2>            
           </Col>
@@ -37,7 +37,7 @@ function Description() {
           <Col sm={8} className="nagra text-col-nagra">
           <p className="text-p-nagra">
               His notes state, "The tunings of approximately half of them were
-              measured live, while the others were recoreded on a
+              measured live, while the others were recorded on a
               <a
                 href="https://www.redsharknews.com/audio/item/6347-one-audio-recorder-to-rule-them-all-a-look-back-at-the-nagra-iv"
                 target="_blank"
@@ -94,45 +94,45 @@ function Description() {
           </Col>
           <Col sm={8} className="nagra text-col-nagra">
           <p className="text-p-nagra">
-              His notes state, "The tunings of approximately half of them were
-              measured live, while the others were recoreded on a
-              <a
-                href="https://www.redsharknews.com/audio/item/6347-one-audio-recorder-to-rule-them-all-a-look-back-at-the-nagra-iv"
-                target="_blank"
-                rel="noreferrer"
-              >
-                {" "}
-                Nagra-IV-S tape recorder
-              </a>{" "}
-              (<em>pictured at right</em>) with crystal synchronization pulse. The tapes
-              were later played back at correct speed by using a Kudelski Slo
-              Resolver. In both instances, the measurements were made with the
-              Hale-Sight-o-Tuner, a Stroboconn-type device which is solid state,
-              portable and accurate to +/- 0.5 cent. All pitch measurements were
-              made in terms of deviation from Western equal temperament, with
-              the octave defined as 1200 cents and the half step as 100 cents."
-            </p>            
+              His meticulously gathered data has been stored in the special collections at Wesleyan
+              University Library which includes seven boxes of "his letters, photographs, 
+              concert notices, course notes, and computer printouts of tuning frequencies<sup><a href="#citation1">1</a></sup>."
+            </p>  
+            <p className="text-p-nagra">This project uses Toth's handwritten notes for each key in each gamelan.
+              That data was then put into&nbsp;  
+              <a href="https://www.soniccouture.com/en/products/31-ethnic/g26-balinese-gamelan-ii/"
+              target="_blank" rel="noreferrer">
+                Soniccouture's Balinese Gamelan II VST</a>, which was created by 
+                sampling the gamelan semaradana belonging to the London Symphony Orchestra.</p>   
+
+                <p className="text-p-nagra">It is hoped that this will allow the listener a glimpse 
+                into the wildly diverse and beautiful world of Balinese tuning preferences 
+                (<em>from your own home!</em>) by hearing samples of pieces played on different gamelan.</p> 
+                <p id="citation1" className="citation"><em>1. Vitale, Wayne and Sethares, Bill, 2021. “Balinese Gamelan Tuning: The Toth Archives,” to appear in&nbsp; 
+                  <a href="http://www.aawmjournal.com/" target="_blank" rel="noreferrer">Analytical Approaches to World Music</a>.</em></p>      
           </Col>
         </Row>
 
         <Row>
           <Col xs={12} className="nagra">
-            <h2 className="main-text">
-              The map below was created using his tuning data and was input into
-              SonicCouture's Balinese Gamelan II VST. It is hoped that this will
-              allow the listener a glimpse into the wildly diverse and beautiful
-              world of Balinese tuning preferences by hearing samples of pieces played 
-              on different gamelan.
+            <h2 className="main-text">  
+            Click on a pin on the map below and you'll see information about which banjar you 
+            are listening to, which district (kabupaten) it is located in and the 
+            ensemble ID in Andrew Toth's data. 
             </h2>
-            <p className="small-description"> Click on a pin below and you'll see information about which banjar you 
-                are listening to, which district (kabupaten) it is located in and the 
-                ensemble ID in Andrew Toth's data. <br/><em>More to come!</em>
+            <p className="small-description">Currently, only a short section of
+                Kosalia Arini is playable, but this will change as I work through the
+                tedious process of mastering the art of tukang laras digital. 
+                In short, <br/><em>Stay tuned!</em> <br/>(pun intended)
             </p>
           </Col>
         </Row>
         <Row>
             <Col xs={12}>
-                <ButtonGroup>
+                <ButtonGroup className="kab-buttons">
+                <Button variant="primary" size="lg" active>
+                    Badung
+                </Button>
                 <Button variant="primary" size="lg" active>
                     Gianyar
                 </Button>
