@@ -30,7 +30,8 @@ function Description() {
               In 1976, the ethnomusicologist Andrew Toth measured the
               tunings of each bronze key and gong-kettle of 49 complete sets of
               gong keybar.
-            </h2>            
+            </h2>
+            <div></div>            
           </Col>
         </Row>
         <Row>

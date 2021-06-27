@@ -26,7 +26,8 @@
             "NAME": "KOKAR",
             "ENSEMBLE_ID": "03",
             "KABUPATEN": "Gianyar",
-            "coordinates": [-8.605494208711733,  115.25697201534375]            
+            "coordinates": [-8.605494208711733,  115.25697201534375],
+            "audio": "static/media/kokar.mp3"             
         }
     },
     {
@@ -35,14 +36,24 @@
             "NAME": "Banjar Geladag, Pedungan",
             "ENSEMBLE_ID": "04",
             "KABUPATEN": "Kota Denpasar",
-            "coordinates": [-8.690221146548055, 115.20599715475782]            
+            "coordinates": [-8.690221146548055, 115.20599715475782],
+            "audio": "static/media/geladag.mp3"             
+        }
+    },
+    {
+
+        "properties": {
+            "NAME": "Banjar Dauh Kutuh, Ubung",
+            "ENSEMBLE_ID": "05",
+            "KABUPATEN": "Kota Denpasar",
+            "coordinates": [-8.622762680532373, 115.20317446137368],
+            "audio": "static/media/dauh-kutuh-ubung.mp3"             
         }
     }
     
 ]
 
 
- 
 
 
 }
