@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bali-map-react/static/css/main.e52eca60.chunk.css",
-    "main.js": "/bali-map-react/static/js/main.685f1bb4.chunk.js",
-    "main.js.map": "/bali-map-react/static/js/main.685f1bb4.chunk.js.map",
+    "main.js": "/bali-map-react/static/js/main.51920540.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.51920540.chunk.js.map",
     "runtime-main.js": "/bali-map-react/static/js/runtime-main.eb743b4a.js",
     "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.eb743b4a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bali-map-react/static/css/2.4c97ca4f.chunk.css",
@@ -19,16 +19,16 @@
     "static/media/App.css": "/bali-map-react/static/media/agung.028660c0.jpg",
     "static/media/bali_mask.74f1fe77.jpg": "/bali-map-react/static/media/bali_mask.74f1fe77.jpg",
     "static/media/barong-logo.5130e27c.png": "/bali-map-react/static/media/barong-logo.5130e27c.png",
-    "static/media/getas.05fecbff.mp3": "/bali-map-react/static/media/getas.05fecbff.mp3",
+    "static/media/getas.dd2efab1.mp3": "/bali-map-react/static/media/getas.dd2efab1.mp3",
     "static/media/hale-sight-o-tuner-1970s.6b33b908.jpg": "/bali-map-react/static/media/hale-sight-o-tuner-1970s.6b33b908.jpg",
     "static/media/kudelski-slo-resolver.75268b52.jpg": "/bali-map-react/static/media/kudelski-slo-resolver.75268b52.jpg",
-    "static/media/peliatan.94cae6eb.mp3": "/bali-map-react/static/media/peliatan.94cae6eb.mp3"
+    "static/media/peliatan.7645ea89.mp3": "/bali-map-react/static/media/peliatan.7645ea89.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.eb743b4a.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.b04b7e1a.chunk.js",
     "static/css/main.e52eca60.chunk.css",
-    "static/js/main.685f1bb4.chunk.js"
+    "static/js/main.51920540.chunk.js"
   ]
 }
