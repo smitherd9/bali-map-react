@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bali-map-react/static/css/main.e52eca60.chunk.css",
-    "main.js": "/bali-map-react/static/js/main.51920540.chunk.js",
-    "main.js.map": "/bali-map-react/static/js/main.51920540.chunk.js.map",
+    "main.js": "/bali-map-react/static/js/main.cbdd8f58.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.cbdd8f58.chunk.js.map",
     "runtime-main.js": "/bali-map-react/static/js/runtime-main.eb743b4a.js",
     "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.eb743b4a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bali-map-react/static/css/2.4c97ca4f.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.b04b7e1a.chunk.js",
     "static/css/main.e52eca60.chunk.css",
-    "static/js/main.51920540.chunk.js"
+    "static/js/main.cbdd8f58.chunk.js"
   ]
 }
