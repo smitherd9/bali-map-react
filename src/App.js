@@ -10,6 +10,10 @@ import Description from './description';
 import Footer from './footer';
 import "./audio/peliatan.mp3";
 import "./audio/getas.mp3";
+import "./audio/geladag.mp3"
+import "./audio/dauh-kutuh-ubung.mp3"
+import "./audio/kokar.mp3"
+
 
 library.add(fab);
 

@@ -27,7 +27,7 @@
             "ENSEMBLE_ID": "03",
             "KABUPATEN": "Gianyar",
             "coordinates": [-8.605494208711733,  115.25697201534375],
-            "audio": "static/media/kokar.mp3"             
+            "audio": "static/media/kokar.d58be224.mp3"             
         }
     },
     {
@@ -37,7 +37,7 @@
             "ENSEMBLE_ID": "04",
             "KABUPATEN": "Kota Denpasar",
             "coordinates": [-8.690221146548055, 115.20599715475782],
-            "audio": "static/media/geladag.mp3"             
+            "audio": "static/media/geladag.69f0547a.mp3"             
         }
     },
     {
@@ -47,7 +47,7 @@
             "ENSEMBLE_ID": "05",
             "KABUPATEN": "Kota Denpasar",
             "coordinates": [-8.622762680532373, 115.20317446137368],
-            "audio": "static/media/dauh-kutuh-ubung.mp3"             
+            "audio": "static/media/dauh-kutuh-ubung.6b644c3a.mp3"             
         }
     }
     
