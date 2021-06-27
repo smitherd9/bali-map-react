@@ -34,7 +34,7 @@ function Description() {
           </Col>
         </Row>
         <Row>
-          <Col sm={8} className="nagra text-col-nagra">
+          <Col xs={12} md={8} className="nagra text-col-nagra">
           <p className="text-p-nagra">
               His notes state, "The tunings of approximately half of them were
               measured live, while the others were recorded on a
@@ -55,7 +55,7 @@ function Description() {
               the octave defined as 1200 cents and the half step as 100 cents."
             </p>            
           </Col>
-          <Col sm={4} className="nagra">        
+          <Col xs={12} md={4} className="nagra">        
             <div style={{ width: "100%", textAlign: "center" }}>
               <img
                 src={nagra2}
@@ -69,7 +69,7 @@ function Description() {
           </Col>
         </Row>
         <Row>
-          <Col sm={4} className="nagra">
+          <Col xs={12} md={4} className="nagra">
           <div style={{ width: "100%", textAlign: "center" }}>
             <img
               src={kudelski}
@@ -92,7 +92,7 @@ function Description() {
             </p>
             </div>
           </Col>
-          <Col sm={8} className="nagra text-col-nagra">
+          <Col xs={12} md={8} className="nagra text-col-nagra">
           <p className="text-p-nagra">
               His meticulously gathered data has been stored in the special collections at Wesleyan
               University Library which includes seven boxes of "his letters, photographs, 
@@ -105,9 +105,17 @@ function Description() {
                 Soniccouture's Balinese Gamelan II VST</a>, which was created by 
                 sampling the gamelan semaradana belonging to the London Symphony Orchestra.</p>   
 
+                <p className="text-p-nagra">You may notice that not all instruments are present
+                in all the audio clips.  This is because (as far as I know) data for those instruments 
+                was not available, either because Andrew Toth did not record the data or that particular
+                ensemble did not have those instruments in the late 70s.  Similarly, you may hear more instruments
+                as some gamelan had penyacah, some didn't, and some had two pairs of pemade/kantil while others 
+                only had one.</p>
+
                 <p className="text-p-nagra">It is hoped that this will allow the listener a glimpse 
                 into the wildly diverse and beautiful world of Balinese tuning preferences 
-                (<em>from your own home!</em>) by hearing samples of pieces played on different gamelan.</p> 
+                (<em>from your own home!</em>) by hearing samples of pieces played on different gamelan.</p>
+
                 <p id="citation1" className="citation"><em>1. Vitale, Wayne and Sethares, Bill, 2021. “Balinese Gamelan Tuning: The Toth Archives,” to appear in&nbsp; 
                   <a href="http://www.aawmjournal.com/" target="_blank" rel="noreferrer">Analytical Approaches to World Music</a>.</em></p>      
           </Col>
@@ -120,10 +128,10 @@ function Description() {
             are listening to, which district (kabupaten) it is located in and the 
             ensemble ID in Andrew Toth's data. 
             </h2>
-            <p className="small-description">Currently, only a short section of
+            <p className="small-description">Currently, only a short section of a piece called
                 Kosalia Arini is playable, but this will change as I work through the
                 tedious process of mastering the art of tukang laras digital. 
-                In short, <br/><em>Stay tuned!</em> <br/>(pun intended)
+                In short... <br/><em>STAY TUNED!</em> 
             </p>
           </Col>
         </Row>
