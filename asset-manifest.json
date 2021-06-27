@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/bali-map-react/static/css/main.0834e211.chunk.css",
-    "main.js": "/bali-map-react/static/js/main.4e0b1426.chunk.js",
-    "main.js.map": "/bali-map-react/static/js/main.4e0b1426.chunk.js.map",
-    "runtime-main.js": "/bali-map-react/static/js/runtime-main.d96a84f3.js",
-    "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.d96a84f3.js.map",
+    "main.css": "/bali-map-react/static/css/main.06d8f3cf.chunk.css",
+    "main.js": "/bali-map-react/static/js/main.c2dd8321.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.c2dd8321.chunk.js.map",
+    "runtime-main.js": "/bali-map-react/static/js/runtime-main.eb743b4a.js",
+    "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.eb743b4a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bali-map-react/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.92151893.chunk.js": "/bali-map-react/static/js/2.92151893.chunk.js",
-    "static/js/2.92151893.chunk.js.map": "/bali-map-react/static/js/2.92151893.chunk.js.map",
-    "static/js/3.3312d9d6.chunk.js": "/bali-map-react/static/js/3.3312d9d6.chunk.js",
-    "static/js/3.3312d9d6.chunk.js.map": "/bali-map-react/static/js/3.3312d9d6.chunk.js.map",
+    "static/js/2.b04b7e1a.chunk.js": "/bali-map-react/static/js/2.b04b7e1a.chunk.js",
+    "static/js/2.b04b7e1a.chunk.js.map": "/bali-map-react/static/js/2.b04b7e1a.chunk.js.map",
+    "static/js/3.6c9f38f1.chunk.js": "/bali-map-react/static/js/3.6c9f38f1.chunk.js",
+    "static/js/3.6c9f38f1.chunk.js.map": "/bali-map-react/static/js/3.6c9f38f1.chunk.js.map",
     "index.html": "/bali-map-react/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/bali-map-react/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.0834e211.chunk.css.map": "/bali-map-react/static/css/main.0834e211.chunk.css.map",
-    "static/js/2.92151893.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.92151893.chunk.js.LICENSE.txt",
+    "static/css/main.06d8f3cf.chunk.css.map": "/bali-map-react/static/css/main.06d8f3cf.chunk.css.map",
+    "static/js/2.b04b7e1a.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.b04b7e1a.chunk.js.LICENSE.txt",
     "static/media/Nagra-IV-S_1.4a5c8d90.jpg": "/bali-map-react/static/media/Nagra-IV-S_1.4a5c8d90.jpg",
     "static/media/Nagra-IV-S_2.6753389b.jpg": "/bali-map-react/static/media/Nagra-IV-S_2.6753389b.jpg",
     "static/media/App.css": "/bali-map-react/static/media/agung.028660c0.jpg",
@@ -25,10 +25,10 @@
     "static/media/peliatan.94cae6eb.mp3": "/bali-map-react/static/media/peliatan.94cae6eb.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.d96a84f3.js",
+    "static/js/runtime-main.eb743b4a.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.92151893.chunk.js",
-    "static/css/main.0834e211.chunk.css",
-    "static/js/main.4e0b1426.chunk.js"
+    "static/js/2.b04b7e1a.chunk.js",
+    "static/css/main.06d8f3cf.chunk.css",
+    "static/js/main.c2dd8321.chunk.js"
   ]
 }
