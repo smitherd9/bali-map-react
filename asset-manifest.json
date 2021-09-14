@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/bali-map-react/static/css/main.e52eca60.chunk.css",
-    "main.js": "/bali-map-react/static/js/main.f5eb3b2f.chunk.js",
-    "main.js.map": "/bali-map-react/static/js/main.f5eb3b2f.chunk.js.map",
-    "runtime-main.js": "/bali-map-react/static/js/runtime-main.d77f894f.js",
-    "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.d77f894f.js.map",
+    "main.js": "/bali-map-react/static/js/main.ba5aa48f.chunk.js",
+    "main.js.map": "/bali-map-react/static/js/main.ba5aa48f.chunk.js.map",
+    "runtime-main.js": "/bali-map-react/static/js/runtime-main.eb743b4a.js",
+    "runtime-main.js.map": "/bali-map-react/static/js/runtime-main.eb743b4a.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/bali-map-react/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.9f4ce5ef.chunk.js": "/bali-map-react/static/js/2.9f4ce5ef.chunk.js",
-    "static/js/2.9f4ce5ef.chunk.js.map": "/bali-map-react/static/js/2.9f4ce5ef.chunk.js.map",
-    "static/js/3.188c1308.chunk.js": "/bali-map-react/static/js/3.188c1308.chunk.js",
-    "static/js/3.188c1308.chunk.js.map": "/bali-map-react/static/js/3.188c1308.chunk.js.map",
+    "static/js/2.b32b14d4.chunk.js": "/bali-map-react/static/js/2.b32b14d4.chunk.js",
+    "static/js/2.b32b14d4.chunk.js.map": "/bali-map-react/static/js/2.b32b14d4.chunk.js.map",
+    "static/js/3.6c9f38f1.chunk.js": "/bali-map-react/static/js/3.6c9f38f1.chunk.js",
+    "static/js/3.6c9f38f1.chunk.js.map": "/bali-map-react/static/js/3.6c9f38f1.chunk.js.map",
     "index.html": "/bali-map-react/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/bali-map-react/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.e52eca60.chunk.css.map": "/bali-map-react/static/css/main.e52eca60.chunk.css.map",
-    "static/js/2.9f4ce5ef.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.9f4ce5ef.chunk.js.LICENSE.txt",
+    "static/js/2.b32b14d4.chunk.js.LICENSE.txt": "/bali-map-react/static/js/2.b32b14d4.chunk.js.LICENSE.txt",
     "static/media/Nagra-IV-S_1.4a5c8d90.jpg": "/bali-map-react/static/media/Nagra-IV-S_1.4a5c8d90.jpg",
     "static/media/Nagra-IV-S_2.6753389b.jpg": "/bali-map-react/static/media/Nagra-IV-S_2.6753389b.jpg",
     "static/media/App.css": "/bali-map-react/static/media/agung.028660c0.jpg",
@@ -29,10 +29,10 @@
     "static/media/peliatan.7645ea89.mp3": "/bali-map-react/static/media/peliatan.7645ea89.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.d77f894f.js",
+    "static/js/runtime-main.eb743b4a.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.9f4ce5ef.chunk.js",
+    "static/js/2.b32b14d4.chunk.js",
     "static/css/main.e52eca60.chunk.css",
-    "static/js/main.f5eb3b2f.chunk.js"
+    "static/js/main.ba5aa48f.chunk.js"
   ]
 }
