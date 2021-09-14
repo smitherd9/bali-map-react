@@ -6,7 +6,8 @@
             "ENSEMBLE_ID": "01",
             "KABUPATEN": "Gianyar",
             "coordinates": [-8.5120, 115.2749],
-            "audio": "static/media/peliatan.7645ea89.mp3"            
+            "audio": "static/media/peliatan.7645ea89.mp3",
+            "tothPlot": "static/media/peliatan-toth-plot.0b75d845.png"             
         }
         
     },

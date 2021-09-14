@@ -1,4 +1,5 @@
-import React, { useState, Fragment } from "react";
+import React, { useState, Fragment } from 'react';
+import { Image } from 'react-bootstrap';
 import './App.css';
 
 
@@ -10,9 +11,6 @@ import { GoogleMap,
   import * as mapStyles from "./data/map-styles";
   import * as banjarData from "./data/banjar.json";
 
-
-// import AudioPlayer from "react-h5-audio-player";
-// import "react-h5-audio-player/lib/styles.css";
 
 
 import ReactAudioPlayer from 'react-audio-player';
@@ -59,6 +57,9 @@ function Map() {
             <div><h2>{selectedBanjar.properties.NAME}</h2>
                  <p>Ensemble ID: {selectedBanjar.properties.ENSEMBLE_ID}</p> 
                  <p>Kabupaten: {selectedBanjar.properties.KABUPATEN}</p> 
+            </div>
+            <div>
+              <Image src={selectedBanjar.properties.tothPlot} alt="peliatan toth plot" fluid />
             </div>
 
             <ReactAudioPlayer 
