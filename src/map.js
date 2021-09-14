@@ -59,7 +59,7 @@ function Map() {
                  <p>Kabupaten: {selectedBanjar.properties.KABUPATEN}</p> 
             </div>
             <div>
-              <img src={selectedBanjar.properties.tothPlot} style={{width: "175px"}} alt="banjar's toth plot" fluid />
+              <img src={selectedBanjar.properties.tothPlot} style={{width: "175px"}} alt="toth plot" fluid />
             </div>
 
             <ReactAudioPlayer 
