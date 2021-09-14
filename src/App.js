@@ -13,7 +13,7 @@ import "./audio/getas.mp3";
 import "./audio/geladag.mp3";
 import "./audio/dauh-kutuh-ubung.mp3";
 import "./audio/kokar.mp3";
-import "./img/peliatan-toth-plot.png";
+import "./img/toth-plots/peliatan-toth-plot.png";
 
 
 library.add(fab);
