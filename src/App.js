@@ -15,6 +15,12 @@ import "./audio/dauh-kutuh-ubung.mp3";
 import "./audio/kokar.mp3";
 import "./img/toth-plots/peliatan-toth-plot.png";
 import "./img/toth-plots/getas-toth-plot.png";
+import "./img/toth-plots/kokar-toth-plot.png";
+import "./img/toth-plots/gladag-toth-plot.png";
+import "./img/toth-plots/dauh-kutuh-ubung-toth-plot.png";
+
+
+
 
 
 library.add(fab);
