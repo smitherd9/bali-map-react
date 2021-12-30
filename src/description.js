@@ -117,8 +117,8 @@ function Description() {
                 into the wildly diverse and beautiful world of Balinese tuning preferences 
                 (<em>from your own home!</em>) by hearing samples of pieces played on different gamelan.</p>
 
-                <p id="citation1" className="citation"><em>1. Vitale, Wayne and Sethares, Bill, 2021. “Balinese Gamelan Tuning: The Toth Archives,” to appear in&nbsp; 
-                  <a href="http://www.aawmjournal.com/" target="_blank" rel="noreferrer">Analytical Approaches to World Music</a>.</em></p>      
+                <p id="citation1" className="citation"><em>1. Vitale, Wayne and Sethares, Bill, 2021. “Balinese Gamelan Tuning: The Toth Archives,” in&nbsp; 
+                  <a href="http://www.aawmjournal.com/articles/2021b/Vitale_Sethares_AAWM_Vol_9_2.html" target="_blank" rel="noreferrer">Analytical Approaches to World Music</a>.</em></p>      
           </Col>
         </Row>
 
